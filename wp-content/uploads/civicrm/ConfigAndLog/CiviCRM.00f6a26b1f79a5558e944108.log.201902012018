@@ -1,0 +1,429 @@
+Jan 01 02:08:05  [debug] Stripe Payment Error: Payment Response: <br />Type: card_error<br />Code: card_declined<br />Message: Your card was declined.<br />
+
+Jan 01 02:09:50  [debug] Stripe Payment Error: Payment Response: <br />Type: card_error<br />Code: card_declined<br />Message: Your card was declined.<br />
+
+Jan 02 15:46:26  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:46:26  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:46:26  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:46:26  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:50:09  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:50:09  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:50:14  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:50:14  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:50:23  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:50:23  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:50:24  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:50:24  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:54:16  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:54:16  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 15:58:26  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 15:58:26  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 16:05:59  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 16:05:59  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 16:08:22  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 16:08:22  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 02 21:27:17  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 02 21:27:17  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 03 00:00:50  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 03 00:00:50  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 03 00:00:53  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 03 00:00:53  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 06 11:41:14  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 06 11:41:14  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 06 11:41:17  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 06 11:41:17  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 06 15:58:30  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 06 15:58:30  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Jan 20 18:42:44  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Jan 20 18:42:44  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(398): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1240): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(515): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(728): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(964): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+

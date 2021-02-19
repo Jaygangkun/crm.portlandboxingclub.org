@@ -1,0 +1,5 @@
+"Line Number","Reason","Date Received","- do not import -","Total Amount","Note","Contact ID (match to contact)","Financial Type","Contribution Source"
+"18","Mandatory key(s) missing from params array: contact_id","8/24/2020","21:24:48","$10.55","Handwraps (Regular)","","Store Purchase","Square"
+"23","Mandatory key(s) missing from params array: contact_id","8/19/2020","16:02:06","$61.70","Bag Gloves - Sting USA Boxing (Regular), Handwraps (Regular), Drop In Class (Regular)","","Store Purchase","Square"
+"24","Mandatory key(s) missing from params array: contact_id","8/19/2020","15:58:28","$26.38","Bag Gloves - Ringside 12 oz (Regular)","","Store Purchase","Square"
+"30","Mandatory key(s) missing from params array: contact_id","8/14/2020","19:50:09","$10.00","Drop In Class (Regular)","","Store Purchase","Square"

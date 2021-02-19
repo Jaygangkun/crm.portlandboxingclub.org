@@ -1,0 +1,64 @@
+Nov 11 01:22:48  [info] $Fatal Error Details = Array
+(
+    [message] => Could not find valid value for ct
+    [code] => 
+)
+
+
+Nov 11 01:22:48  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/Request.php(121): CRM_Core_Error::fatal("Could not find valid value for ct")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contact/Form/Contact.php(163): CRM_Utils_Request::retrieve("ct", "String", Object(CRM_Contact_Form_Contact), TRUE, NULL, "REQUEST")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Form.php(585): CRM_Contact_Form_Contact->preProcess()
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Upload.php(129): CRM_Core_Form->buildForm()
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Upload->perform(Object(CRM_Contact_Form_Contact), "upload")
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contact_Form_Contact), "upload")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("upload")
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/Wrapper.php(113): CRM_Core_Controller->run()
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(283): CRM_Utils_Wrapper->run("CRM_Contact_Form_Contact", "New Contact", (Array:1))
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1248): CRM_Core_Invoke::invoke((Array:3))
+#13 [internal function](): CiviCRM_For_WordPress->invoke("")
+#14 /home/portland/www/www/wp-includes/class-wp-hook.php(286): call_user_func_array((Array:2), (Array:1))
+#15 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#16 /home/portland/www/www/wp-includes/plugin.php(453): WP_Hook->do_action((Array:1))
+#17 /home/portland/www/www/wp-admin/admin.php(224): do_action("toplevel_page_CiviCRM")
+#18 {main}
+
+
+Nov 11 01:28:25  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Nov 11 01:28:26  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Nov 11 01:28:30  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Nov 11 01:28:34  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Nov 11 01:28:38  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Nov 11 01:28:39  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Nov 21 01:32:34  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Nov 21 01:32:34  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Nov 21 01:32:37  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Nov 21 01:32:43  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Nov 21 01:32:46  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Nov 21 01:32:47  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Nov 27 14:46:28  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Nov 27 14:46:29  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Nov 27 14:46:33  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Nov 27 14:46:41  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Nov 27 14:46:45  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Nov 27 14:46:46  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+

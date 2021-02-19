@@ -1,0 +1,128 @@
+Dec 07 15:59:08  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Dec 07 15:59:09  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Dec 07 15:59:12  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Dec 07 15:59:18  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Dec 07 15:59:27  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Dec 07 15:59:28  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Dec 16 20:39:52  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Dec 16 20:39:53  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Dec 16 20:39:59  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Dec 16 20:40:03  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Dec 16 20:40:05  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Dec 16 20:40:06  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Dec 27 02:27:31  [info] CRM_Admin_Page_ExtensionsUpgrade: Start upgrades
+
+Dec 27 02:27:35  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5010
+
+Dec 27 02:27:35  [info] Applying Stripe update 5010.  Adding contact_id to civicrm_stripe_customers.
+Dec 27 02:27:36  [info] Applying Stripe update 5010. Getting Contact IDs for civicrm_stripe_customers.
+Dec 27 02:27:37  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5010
+
+Dec 27 02:27:38  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5020
+
+Dec 27 02:27:38  [info] Applying Stripe update 5020.  Migrate civicrm_stripe_subscriptions data to recurring contributions.
+Dec 27 02:27:39  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5020
+
+Dec 27 02:27:40  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5021
+
+Dec 27 02:27:40  [info] Applying Stripe update 5021.  Copy trxn_id to processor_id so we can cancel recurring contributions.
+Dec 27 02:27:41  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5021
+
+Dec 27 02:27:42  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
+
+Dec 27 02:30:45  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Dec 27 02:30:46  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Dec 27 02:30:49  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Dec 27 02:30:54  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Dec 27 02:30:57  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Dec 27 02:30:58  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Dec 27 21:11:02  [info] Running task: Cleanup old files
+
+Dec 27 21:11:03  [info] Running task: Begin Upgrade to 5.5.3
+
+Dec 27 21:11:04  [info] Running task: Upgrade DB to 5.5.3
+
+Dec 27 21:11:06  [info] Running task: Finish Upgrade DB to 5.5.3
+
+Dec 27 21:11:07  [info] Running task: Begin Upgrade to 5.6.alpha1
+
+Dec 27 21:11:08  [info] Running task: Upgrade DB to 5.6.alpha1
+
+Dec 27 21:11:09  [info] Running task: Finish Upgrade DB to 5.6.alpha1
+
+Dec 27 21:11:10  [info] Running task: Begin Upgrade to 5.6.beta1
+
+Dec 27 21:11:11  [info] Running task: Upgrade DB to 5.6.beta1
+
+Dec 27 21:11:13  [info] Running task: Finish Upgrade DB to 5.6.beta1
+
+Dec 27 21:11:14  [info] Running task: Begin Upgrade to 5.6.beta2
+
+Dec 27 21:11:15  [info] Running task: Upgrade DB to 5.6.beta2
+
+Dec 27 21:11:15  [info] Running task: Upgrade DB to 5.6.beta2: SQL
+
+Dec 27 21:11:17  [info] Running task: dev/core#107 - Add Activity's default assignee options
+
+Dec 27 21:11:18  [info] Running task: Finish Upgrade DB to 5.6.beta2
+
+Dec 27 21:11:19  [info] Running task: Begin Upgrade to 5.7.alpha1
+
+Dec 27 21:11:20  [info] Running task: Upgrade DB to 5.7.alpha1
+
+Dec 27 21:11:22  [info] Running task: Finish Upgrade DB to 5.7.alpha1
+
+Dec 27 21:11:23  [info] Running task: Begin Upgrade to 5.7.beta1
+
+Dec 27 21:11:24  [info] Running task: Upgrade DB to 5.7.beta1
+
+Dec 27 21:11:26  [info] Running task: Finish Upgrade DB to 5.7.beta1
+
+Dec 27 21:11:27  [info] Running task: Begin Upgrade to 5.8.alpha1
+
+Dec 27 21:11:28  [info] Running task: Upgrade DB to 5.8.alpha1
+
+Dec 27 21:11:29  [info] Running task: Finish Upgrade DB to 5.8.alpha1
+
+Dec 27 21:11:30  [info] Running task: Begin Upgrade to 5.8.beta1
+
+Dec 27 21:11:31  [info] Running task: Upgrade DB to 5.8.beta1
+
+Dec 27 21:11:33  [info] Running task: Finish Upgrade DB to 5.8.beta1
+
+Dec 27 21:11:34  [info] Running task: Begin Upgrade to 5.8.0
+
+Dec 27 21:11:35  [info] Running task: Upgrade DB to 5.8.0
+
+Dec 27 21:11:36  [info] Running task: Finish Upgrade DB to 5.8.0
+
+Dec 27 21:11:37  [info] Running task: Begin Upgrade to 5.8.1
+
+Dec 27 21:11:38  [info] Running task: Upgrade DB to 5.8.1
+
+Dec 27 21:11:39  [info] Running task: Finish Upgrade DB to 5.8.1
+
+Dec 27 21:11:40  [info] Running task: Begin Upgrade to 5.8.2
+
+Dec 27 21:11:41  [info] Running task: Upgrade DB to 5.8.2
+
+Dec 27 21:11:42  [info] Running task: Finish Upgrade DB to 5.8.2
+

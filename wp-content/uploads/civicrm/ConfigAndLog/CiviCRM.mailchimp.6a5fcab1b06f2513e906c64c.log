@@ -1,0 +1,234 @@
+Sep 14 15:56:26  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Sep 14 15:56:27  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/lists?fields=lists.id%2Clists.name&count=10000
+Took         : 0.9s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'lists' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'id' => '9cc5928b23',
+                      'name' => 'Newsletter',
+                   )),
+                 ),
+               ))
+
+
+
+Sep 14 15:56:27  [info] Request #1
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/interest-categories?fields=categories.id%2Ccategories.title&count=10000
+Took         : 0.17s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'categories' => 
+                 array (
+                 ),
+               ))
+
+
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 14 15:56:27  [info] getMCInterestName called for list '9cc5928b23', category '', interest '', returning ''
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCCategoryName for list 9cc5928b23 cat  returning 
+
+Sep 14 15:56:27  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+  7 => 
+  array (
+    'list_id' => '9cc5928b23',
+    'list_name' => 'Newsletter',
+    'category_id' => '',
+    'category_name' => NULL,
+    'interest_id' => '',
+    'interest_name' => NULL,
+    'is_mc_update_grouping' => NULL,
+    'civigroup_title' => 'Newsletter',
+    'civigroup_uses_cache' => false,
+    'grouping_id' => '',
+    'grouping_name' => NULL,
+    'group_id' => '',
+    'group_name' => NULL,
+  ),
+)
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 14 15:56:27  [info] getMCInterestName called for list '9cc5928b23', category '', interest '', returning ''
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 14 15:56:27  [info] CRM_Mailchimp_Utils::getMCCategoryName for list 9cc5928b23 cat  returning 
+
+Sep 14 15:56:27  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+  7 => 
+  array (
+    'list_id' => '9cc5928b23',
+    'list_name' => 'Newsletter',
+    'category_id' => '',
+    'category_name' => NULL,
+    'interest_id' => '',
+    'interest_name' => NULL,
+    'is_mc_update_grouping' => NULL,
+    'civigroup_title' => 'Newsletter',
+    'civigroup_uses_cache' => false,
+    'grouping_id' => '',
+    'grouping_name' => NULL,
+    'group_id' => '',
+    'group_name' => NULL,
+  ),
+)
+
+Sep 14 15:56:27  [info] Request #2
+=============================================
+Method       : PUT
+Url          : https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a
+Took         : 0.23s
+Response Code: 200
+Request Body : stdClass::__set_state(array(
+                  'status' => 'subscribed',
+                  'email_address' => 'durwardferland@gmail.com',
+                  'merge_fields' => 
+                 stdClass::__set_state(array(
+                    'FNAME' => 'Durward',
+                    'LNAME' => 'Ferland',
+                 )),
+               ))
+Response Body: stdClass::__set_state(array(
+                  'id' => '9965a18f37e63b207d880382c6b6c81a',
+                  'email_address' => 'durwardferland@gmail.com',
+                  'unique_email_id' => '7d48265f29',
+                  'email_type' => 'html',
+                  'status' => 'subscribed',
+                  'merge_fields' => 
+                 stdClass::__set_state(array(
+                    'FIRSTNAME' => 'Durward',
+                    'LASTNAME' => 'Ferland',
+                    'ADDRESS' => '',
+                    'PHONE' => '',
+                 )),
+                  'stats' => 
+                 stdClass::__set_state(array(
+                    'avg_open_rate' => 0.90000000000000002,
+                    'avg_click_rate' => 0.033300000000000003,
+                 )),
+                  'ip_signup' => '',
+                  'timestamp_signup' => '',
+                  'ip_opt' => '',
+                  'timestamp_opt' => '2016-12-19T20:54:36+00:00',
+                  'member_rating' => 3,
+                  'last_changed' => '2017-11-23T02:07:51+00:00',
+                  'language' => '',
+                  'vip' => false,
+                  'email_client' => 'Gmail',
+                  'location' => 
+                 stdClass::__set_state(array(
+                    'latitude' => 43.429200000000002,
+                    'longitude' => -89.850099999999998,
+                    'gmtoff' => -6,
+                    'dstoff' => -5,
+                    'country_code' => 'US',
+                    'timezone' => 'America/Menominee',
+                 )),
+                  'tags_count' => 0,
+                  'tags' => 
+                 array (
+                 ),
+                  'list_id' => '9cc5928b23',
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'parent',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists/Members.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'update',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a',
+                      'method' => 'PATCH',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'upsert',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a',
+                      'method' => 'PUT',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'delete',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a',
+                      'method' => 'DELETE',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'activity',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a/activity',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'goals',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a/goals',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'notes',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a/notes',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'delete_permanent',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/members/9965a18f37e63b207d880382c6b6c81a/actions/delete-permanent',
+                      'method' => 'POST',
+                   )),
+                 ),
+               ))
+
+
+
+Sep 14 15:56:27  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+

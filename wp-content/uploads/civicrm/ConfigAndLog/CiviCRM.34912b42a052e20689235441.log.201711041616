@@ -1,0 +1,65 @@
+Oct 09 17:34:57  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Oct 09 17:34:59  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Oct 09 17:35:02  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Oct 09 17:35:13  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Oct 09 17:35:17  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Oct 09 17:35:20  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Oct 10 02:03:38  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Oct 10 02:03:40  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Oct 10 02:03:42  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Oct 10 02:03:47  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Oct 10 02:03:49  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Oct 10 02:03:51  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Oct 14 23:14:26  [info] CRM_Admin_Page_ExtensionsUpgrade: Start upgrades
+
+Oct 14 23:14:31  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5001
+
+Oct 14 23:14:31  [info] Skipped civicrm_stripe update 5001.  Column processor_id already present on our customers, plans and subscriptions tables.
+Oct 14 23:14:32  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5001
+
+Oct 14 23:14:33  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5002
+
+Oct 14 23:14:35  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5002
+
+Oct 14 23:14:37  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5003
+
+Oct 14 23:14:37  [info] Applying civicrm_stripe update 5003.  Adding subscription_id to civicrm_stripe_subscriptions.
+Oct 14 23:14:38  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5003
+
+Oct 14 23:14:40  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5004
+
+Oct 14 23:14:41  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5004
+
+Oct 14 23:14:42  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5005
+
+Oct 14 23:14:42  [info] Applying civicrm_stripe update 5005.  Adding contribution_recur_id to civicrm_stripe_subscriptions table.
+Oct 14 23:14:43  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5005
+
+Oct 14 23:14:44  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5006
+
+Oct 14 23:14:46  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5006
+
+Oct 14 23:14:47  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5008
+
+Oct 14 23:14:47  [info] Applying civicrm_stripe update 5008. Altering invoice_id to be default NULL.
+Oct 14 23:14:48  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5008
+
+Oct 14 23:14:49  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5009
+
+Oct 14 23:14:49  [info] id is already unique in civicrm_stripe_customers table, no need for civicrm_stripe update 5009.
+Oct 14 23:14:50  [info] Running task: Upgrade com.drastikbydesign.stripe to revision 5009
+
+Oct 14 23:14:51  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
+

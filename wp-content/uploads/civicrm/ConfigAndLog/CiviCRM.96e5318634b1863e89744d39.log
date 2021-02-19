@@ -1,0 +1,452 @@
+Apr 01 01:06:23  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:23  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:27  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:27  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:28  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:28  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:39  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:39  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:40  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:40  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:41  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:41  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:41  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:41  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:06:43  [info] $Fatal Error Details = Array
+(
+    [message] => You do not have permission to access this page.
+    [code] => 
+)
+
+
+Apr 01 01:06:43  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(381): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System/WordPress.php(393): CRM_Core_Error::fatal("You do not have permission to access this page.")
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/System.php(74): CRM_Utils_System_WordPress->permissionDenied()
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(229): CRM_Utils_System::__callStatic("permissionDenied", (Array:0))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:3))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:3))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(365): CiviCRM_For_WordPress->invoke()
+#8 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#9 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, (Array:1))
+#10 /home/portland/www/www/wp-includes/plugin.php(531): WP_Hook->do_action((Array:1))
+#11 /home/portland/www/www/wp-includes/class-wp.php(750): do_action_ref_array("wp", (Array:1))
+#12 /home/portland/www/www/wp-includes/functions.php(1105): WP->main("")
+#13 /home/portland/www/www/wp-blog-header.php(16): wp()
+#14 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#15 {main}
+
+
+Apr 01 01:11:02  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin&reset=1
+)
+
+
+Apr 01 01:11:18  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1
+)
+
+
+Apr 01 01:11:48  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=update&id=ca.bidon.civiexportexcel&key=ca.bidon.civiexportexcel
+)
+
+
+Apr 01 01:11:55  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 01 01:12:12  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 01 01:25:56  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 01 01:26:06  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=add&id=com.agiliway.civimobileapi&key=com.agiliway.civimobileapi
+)
+
+
+Apr 01 01:26:15  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 01 01:26:20  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 01 01:36:17  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin&reset=1
+)
+
+
+Apr 01 01:36:28  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1
+)
+
+
+Apr 01 01:36:42  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=disable&id=com.agiliway.civimobileapi&key=com.agiliway.civimobileapi
+)
+
+
+Apr 01 01:36:49  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 01 01:36:54  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 01 01:37:23  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=delete&id=com.agiliway.civimobileapi&key=com.agiliway.civimobileapi
+)
+
+
+Apr 01 01:37:30  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 01 01:37:34  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 01 01:37:57  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=delete&id=nz.co.fuzion.extendedreport&key=nz.co.fuzion.extendedreport
+)
+
+
+Apr 01 01:38:04  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 01 01:38:08  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+
+Apr 02 14:58:55  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fmember%2FmembershipType&reset=1
+)
+
+
+Apr 02 14:59:05  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fmember%2FmembershipType%2Fadd&action=add&reset=1&snippet=json
+)
+
+
+Apr 02 15:00:56  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fmember%2FmembershipType%2Fadd&action=add&snippet=json
+)
+
+
+Apr 02 15:00:58  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fmember%2FmembershipType&reset=1&snippet=json
+)
+
+
+Apr 02 15:01:34  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership&reset=1&action=add&cid=3614&context=membership&mode=live&snippet=json
+)
+
+
+Apr 02 15:04:55  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership
+)
+
+
+Apr 02 23:51:44  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership&reset=1&action=add&cid=2680&context=membership&mode=live&snippet=json
+)
+
+
+Apr 02 23:52:54  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership
+)
+
+
+Apr 02 23:56:00  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership&reset=1&action=add&cid=3378&context=membership&mode=live&snippet=json
+)
+
+
+Apr 02 23:57:00  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fcontact%2Fview%2Fmembership
+)
+
+
+Apr 03 17:22:01  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fmapping&reset=1
+)
+
+
+Apr 04 00:18:31  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin&reset=1
+)
+
+
+Apr 04 00:18:36  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1
+)
+
+
+Apr 04 00:18:45  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&action=disable&id=ca.bidon.civiexportexcel&key=ca.bidon.civiexportexcel
+)
+
+
+Apr 04 00:18:50  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions
+)
+
+
+Apr 04 00:18:56  [warning] CiviCRM thinks site is not SSL, redirecting to {url}
+Array
+(
+    [url] => https://crm.portlandboxingclub.org/wp-admin/admin.php?page=CiviCRM&q=civicrm%2Fadmin%2Fextensions&reset=1&action=browse
+)
+
+

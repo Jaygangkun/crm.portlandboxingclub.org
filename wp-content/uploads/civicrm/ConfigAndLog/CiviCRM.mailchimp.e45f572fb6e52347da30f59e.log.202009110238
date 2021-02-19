@@ -1,0 +1,992 @@
+Mar 18 23:40:26  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:47:24  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:47:24  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.34s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 18 23:47:24  [info] Webhook POST: a:0:{}
+
+Mar 18 23:47:24  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 18 23:47:39  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:47:39  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.14s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 18 23:47:40  [info] Webhook POST: a:0:{}
+
+Mar 18 23:47:40  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 18 23:49:07  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:49:23  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:49:23  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.15s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 18 23:49:23  [info] Webhook POST: a:0:{}
+
+Mar 18 23:49:23  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 18 23:52:11  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:52:11  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.13s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 18 23:52:12  [info] Webhook POST: a:0:{}
+
+Mar 18 23:52:12  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 18 23:52:39  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:53:09  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:53:20  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 18 23:54:54  [info] Webhook POST: a:0:{}
+
+Mar 18 23:54:54  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 18 23:55:18  [info] Webhook POST: a:0:{}
+
+Mar 18 23:55:18  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 19 00:06:44  [info] Webhook POST: a:0:{}
+
+Mar 19 00:06:44  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 19 00:11:50  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 19 00:11:51  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.2s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 19 00:11:51  [info] Webhook POST: a:0:{}
+
+Mar 19 00:11:51  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+
+Mar 19 00:15:03  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Mar 19 00:15:03  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/
+Took         : 0.13s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'account_id' => '5fc3570c293ae13d5888e3352',
+                  'login_id' => '71050573',
+                  'account_name' => 'Portland Boxing Club',
+                  'email' => 'durwardferland@gmail.com',
+                  'first_name' => 'Durward',
+                  'last_name' => 'Ferland',
+                  'username' => 'durwardferland@gmail.com',
+                  'avatar_url' => 'https://secure.gravatar.com/avatar/9965a18f37e63b207d880382c6b6c81a.jpg?s=300&d=https%3A%2F%2Fcdn-images.mailchimp.com%2Ficons%2Fletter-avatars%2Fd.png',
+                  'role' => 'admin',
+                  'member_since' => '2016-12-19T17:38:39+00:00',
+                  'pricing_plan_type' => 'forever_free',
+                  'first_payment' => '',
+                  'account_timezone' => 'US/Eastern',
+                  'account_industry' => 'Non-Profit',
+                  'contact' => 
+                 stdClass::__set_state(array(
+                    'company' => 'Portland Boxing Club',
+                    'addr1' => 'PO Box 644',
+                    'addr2' => '',
+                    'city' => 'Portland',
+                    'state' => 'ME',
+                    'zip' => '04104-0644',
+                    'country' => 'US',
+                 )),
+                  'pro_enabled' => false,
+                  'last_login' => '2020-03-18T23:23:41+00:00',
+                  'total_subscribers' => 1533,
+                  'industry_stats' => 
+                 stdClass::__set_state(array(
+                    'open_rate' => 0.18846413524996258,
+                    'bounce_rate' => 0.007395473897766018,
+                    'click_rate' => 0.018214970146161375,
+                 )),
+                  '_links' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'self',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Root.json',
+                   )),
+                   1 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'lists',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/lists',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Lists/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Lists.json',
+                   )),
+                   2 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'reports',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/reports',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Reports/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Reports.json',
+                   )),
+                   3 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'conversations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/conversations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Conversations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Conversations.json',
+                   )),
+                   4 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaigns',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaigns',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Campaigns/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Campaigns.json',
+                   )),
+                   5 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'automations',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/automations',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Automations/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Automations.json',
+                   )),
+                   6 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'templates',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/templates',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Templates/Collection.json',
+                      'schema' => 'https://us14.api.mailchimp.com/schema/3.0/CollectionLinks/Templates.json',
+                   )),
+                   7 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'file-manager',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/file-manager',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/FileManager/Namespace.json',
+                   )),
+                   8 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'authorized-apps',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/authorized-apps',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/AuthorizedApps/Collection.json',
+                   )),
+                   9 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'batches',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/batches',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Batches/Collection.json',
+                   )),
+                   10 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'template-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/template-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/TemplateFolders/Collection.json',
+                   )),
+                   11 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'campaign-folders',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/campaign-folders',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/CampaignFolders/Collection.json',
+                   )),
+                   12 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ecommerce',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ecommerce',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ecommerce/Namespace.json',
+                   )),
+                   13 => 
+                   stdClass::__set_state(array(
+                      'rel' => 'ping',
+                      'href' => 'https://us14.api.mailchimp.com/3.0/ping',
+                      'method' => 'GET',
+                      'targetSchema' => 'https://us14.api.mailchimp.com/schema/3.0/Ping/Namespace.json',
+                   )),
+                 ),
+               ))
+
+
+
+Mar 19 00:15:03  [info] Webhook POST: a:0:{}
+
+Mar 19 00:15:03  [info] Webhook RuntimeException code 500 (200 means OK): Missing allow webhook posts permission.
+

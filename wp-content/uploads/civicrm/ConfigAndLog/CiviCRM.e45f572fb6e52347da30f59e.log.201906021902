@@ -1,0 +1,76 @@
+May 20 12:19:58  [info] Contribution record updated successfully
+
+May 20 12:19:58  [info] Success: Database updated
+
+May 28 12:37:55  [info] Contribution record updated successfully
+
+May 28 12:37:55  [info] Success: Database updated
+
+May 28 12:37:56  [info] Ignoring exception thrown by nullHandler: , mail() returned failure
+
+May 28 12:37:56  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(921): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("mail() returned failure", NULL, 16, (Array:2), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(236): PEAR::_raiseError(NULL, "mail() returned failure")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/Mail/mail.php(176): PEAR::__callStatic("raiseError", (Array:1))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/Mail.php(299): Mail_mail->send("kenziet1717@gmail.com", (Array:7), "--=_06b30756dc5bdbc08a4ef5e39b7b2b46\nContent-Type: multipart/alternative;\n ...")
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/BAO/MessageTemplate.php(599): CRM_Utils_Mail::send((Array:19))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/AdditionalInfo.php(476): CRM_Core_BAO_MessageTemplate::sendTemplate((Array:19))
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(1209): CRM_Contribute_Form_AdditionalInfo::emailReceipt(Object(CRM_Contribute_Form_Contribution), (Array:85), TRUE)
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(1535): CRM_Contribute_Form_Contribution->processCreditCard((Array:45), (Array:1), "3578")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(951): CRM_Contribute_Form_Contribution->submit((Array:45), 1, NULL)
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Form.php(489): CRM_Contribute_Form_Contribution->postProcess()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Upload.php(169): CRM_Core_Form->mainProcess()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Upload.php(136): CRM_Core_QuickForm_Action_Upload->realPerform(Object(CRM_Contribute_Form_Contribution), "upload")
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Upload->perform(Object(CRM_Contribute_Form_Contribution), "upload")
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contribute_Form_Contribution), "upload")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("upload")
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Page/Tab.php(323): CRM_Core_Controller->run()
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Page/Tab.php(374): CRM_Contribute_Page_Tab->edit()
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(309): CRM_Contribute_Page_Tab->run((Array:4), NULL)
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:4))
+#23 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress->invoke("")
+#24 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#25 /home/portland/www/www/wp-includes/plugin.php(465): WP_Hook->do_action((Array:1))
+#26 /home/portland/www/www/wp-admin/admin.php(253): do_action("toplevel_page_CiviCRM")
+#27 {main}
+
+
+May 28 12:48:55  [info] Contribution record updated successfully
+
+May 28 12:48:55  [info] Success: Database updated
+
+May 28 12:48:55  [info] Ignoring exception thrown by nullHandler: , mail() returned failure
+
+May 28 12:48:55  [info] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(962): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(921): CRM_Core_Error::nullHandler(Object(PEAR_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(577): PEAR_Error->__construct("mail() returned failure", NULL, 16, (Array:2), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/PEAR.php(236): PEAR::_raiseError(NULL, "mail() returned failure")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/Mail/mail.php(176): PEAR::__callStatic("raiseError", (Array:1))
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Utils/Mail.php(299): Mail_mail->send("gasilver@gmail.com", (Array:7), "--=_d7bbbd435f3a25e8330510eafff6bcba\nContent-Type: multipart/alternative;\n ...")
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/BAO/MessageTemplate.php(599): CRM_Utils_Mail::send((Array:19))
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/AdditionalInfo.php(476): CRM_Core_BAO_MessageTemplate::sendTemplate((Array:19))
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(1209): CRM_Contribute_Form_AdditionalInfo::emailReceipt(Object(CRM_Contribute_Form_Contribution), (Array:85), TRUE)
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(1535): CRM_Contribute_Form_Contribution->processCreditCard((Array:45), (Array:1), "3660")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution.php(951): CRM_Contribute_Form_Contribution->submit((Array:45), 1, NULL)
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Form.php(489): CRM_Contribute_Form_Contribution->postProcess()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Upload.php(169): CRM_Core_Form->mainProcess()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Upload.php(136): CRM_Core_QuickForm_Action_Upload->realPerform(Object(CRM_Contribute_Form_Contribution), "upload")
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Controller.php(203): CRM_Core_QuickForm_Action_Upload->perform(Object(CRM_Contribute_Form_Contribution), "upload")
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Page.php(103): HTML_QuickForm_Controller->handle(Object(CRM_Contribute_Form_Contribution), "upload")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Controller.php(351): HTML_QuickForm_Page->handle("upload")
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Page/Tab.php(323): CRM_Core_Controller->run()
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Page/Tab.php(374): CRM_Contribute_Page_Tab->edit()
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(309): CRM_Contribute_Page_Tab->run((Array:4), NULL)
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(84): CRM_Core_Invoke::runItem((Array:13))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(52): CRM_Core_Invoke::_invoke((Array:4))
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1243): CRM_Core_Invoke::invoke((Array:4))
+#23 /home/portland/www/www/wp-includes/class-wp-hook.php(286): CiviCRM_For_WordPress->invoke("")
+#24 /home/portland/www/www/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters("", (Array:1))
+#25 /home/portland/www/www/wp-includes/plugin.php(465): WP_Hook->do_action((Array:1))
+#26 /home/portland/www/www/wp-admin/admin.php(253): do_action("toplevel_page_CiviCRM")
+#27 {main}
+
+

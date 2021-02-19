@@ -1,0 +1,2085 @@
+Feb 01 12:09:51  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 12:42:05  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 12:43:27  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:43:27  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:43:27  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:43:30  [info] Contribution record updated successfully
+
+Feb 01 12:43:31  [info] Receipt sent
+
+Feb 01 12:43:31  [info] Success: Database updated
+
+Feb 01 12:44:48  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 12:46:37  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:46:37  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:46:37  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:46:39  [info] Contribution record updated successfully
+
+Feb 01 12:46:39  [info] Receipt sent
+
+Feb 01 12:46:39  [info] Success: Database updated
+
+Feb 01 12:48:06  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:48:06  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:48:06  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:48:09  [info] Contribution record updated successfully
+
+Feb 01 12:48:09  [info] Receipt sent
+
+Feb 01 12:48:09  [info] Success: Database updated
+
+Feb 01 12:50:32  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:50:32  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:50:32  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:57:22  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:57:22  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:57:22  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 12:57:24  [info] Contribution record updated successfully
+
+Feb 01 12:57:24  [info] Receipt sent
+
+Feb 01 12:57:24  [info] Success: Database updated
+
+Feb 01 13:00:07  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:00:07  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:00:07  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:00:09  [info] Contribution record updated successfully
+
+Feb 01 13:00:10  [info] Receipt sent
+
+Feb 01 13:00:10  [info] Success: Database updated
+
+Feb 01 13:04:22  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:04:22  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:04:22  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 01 13:04:24  [info] Contribution record updated successfully
+
+Feb 01 13:04:25  [info] Receipt sent
+
+Feb 01 13:04:25  [info] Success: Database updated
+
+Feb 01 13:10:42  [info] Contribution record updated successfully
+
+Feb 01 13:10:42  [info] Success: Database updated
+
+Feb 01 13:10:42  [info] Contribution record updated successfully
+
+Feb 01 13:10:42  [info] Receipt sent
+
+Feb 01 13:10:42  [info] Success: Database updated
+
+Feb 01 13:42:29  [info] Contribution record updated successfully
+
+Feb 01 13:42:29  [info] Success: Database updated
+
+Feb 01 13:42:30  [info] Contribution record updated successfully
+
+Feb 01 13:42:30  [info] Receipt sent
+
+Feb 01 13:42:30  [info] Success: Database updated
+
+Feb 01 13:45:09  [info] Contribution record updated successfully
+
+Feb 01 13:45:09  [info] Success: Database updated
+
+Feb 01 13:45:09  [info] Contribution record updated successfully
+
+Feb 01 13:45:10  [info] Receipt sent
+
+Feb 01 13:45:10  [info] Success: Database updated
+
+Feb 01 13:48:26  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 13:52:21  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 14:48:58  [info] Contribution record updated successfully
+
+Feb 01 14:48:58  [info] Success: Database updated
+
+Feb 01 14:48:58  [info] Contribution record updated successfully
+
+Feb 01 14:48:59  [info] Receipt sent
+
+Feb 01 14:48:59  [info] Success: Database updated
+
+Feb 01 14:53:13  [info] Contribution record updated successfully
+
+Feb 01 14:53:13  [info] Success: Database updated
+
+Feb 01 14:53:13  [info] Contribution record updated successfully
+
+Feb 01 14:53:14  [info] Receipt sent
+
+Feb 01 14:53:14  [info] Success: Database updated
+
+Feb 01 15:53:40  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 16:41:08  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 16:54:40  [info] Contribution record updated successfully
+
+Feb 01 16:54:40  [info] Success: Database updated
+
+Feb 01 16:54:40  [info] Contribution record updated successfully
+
+Feb 01 16:54:41  [info] Receipt sent
+
+Feb 01 16:54:41  [info] Success: Database updated
+
+Feb 01 17:31:38  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 01 17:41:40  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_G6FgLoSo1uAK6a) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 01 17:41:40  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_G6FgLoSo1uAK6a) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 01 17:41:40  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_G6FgLoSo1uAK6a) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 01 18:31:48  [info] Contribution record updated successfully
+
+Feb 01 18:31:48  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4060 ,  2 ,  1 ,  20210201173137 ,  25 ,  1.03 ,  23.97 , 'in_1IG6FRKUPvfNAZOGxBL7kLxL' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  113 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IG6FRKUPvfNAZOGxBL7kLxL' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4060 ,  2 ,  1 ,  20210201173137 ,  25 ,  1.03 ,  23.97 , 'in_1IG6FRKUPvfNAZOGxBL7kLxL' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  113 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IG6FRKUPvfNAZOGxBL7kLxL' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4060 ,  2 ,  1 ,  20210201173137 ,  25 ,  1.03 ,  23.97 , 'in_1IG6FRKUPvfNAZOGxBL7kLxL' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  113 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IG6FRKUPvfNAZOGxBL7kLxL' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 01 18:31:48  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IG6FRKUPvfNAZOGxBL7kLxL' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 01 18:31:48  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 113
+    [contribution_status_id] => 2
+    [receive_date] => 20210201173137
+    [order_reference] => in_1IG6FRKUPvfNAZOGxBL7kLxL
+    [trxn_id] => in_1IG6FRKUPvfNAZOGxBL7kLxL
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 01 18:31:48  [info] Success: Database updated
+
+Feb 01 18:31:48  [info] Contribution record updated successfully
+
+Feb 01 18:31:49  [info] Receipt sent
+
+Feb 01 18:31:49  [info] Success: Database updated
+
+Feb 02 01:01:17  [info] CRM_Admin_Page_ExtensionsUpgrade: Start upgrades
+
+Feb 02 01:01:18  [info] Running task: Upgrade com.agiliway.civimobileapi to revision 0018
+
+Feb 02 01:01:19  [info] Running task: Upgrade com.agiliway.civimobileapi to revision 0018
+
+Feb 02 01:01:19  [info] CRM_Admin_Page_ExtensionsUpgrade: Finish upgrades
+
+Feb 02 01:14:10  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Feb 02 01:14:11  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Feb 02 01:14:50  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Feb 02 01:15:11  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Feb 02 01:15:13  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Feb 02 01:15:13  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Feb 02 11:50:43  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 13:53:04  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 13:55:12  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 14:53:23  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzeeS0mvNC2ynb) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 14:53:23  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzeeS0mvNC2ynb) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 14:53:24  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzeeS0mvNC2ynb) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 14:55:22  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzegTAuYT6hc2p) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 14:55:22  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzegTAuYT6hc2p) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 14:55:23  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EzegTAuYT6hc2p) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 02 17:54:59  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 18:55:39  [info] Contribution record updated successfully
+
+Feb 02 18:55:39  [info] Success: Database updated
+
+Feb 02 18:55:39  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1518
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 89
+    [contribution_status_id] => 2
+    [receive_date] => 20210202175456
+    [order_reference] => in_1IGT5YKUPvfNAZOGhqv6ulY7
+    [trxn_id] => in_1IGT5YKUPvfNAZOGhqv6ulY7
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 02 18:55:39  [info] Contribution record updated successfully
+
+Feb 02 18:55:40  [info] Receipt sent
+
+Feb 02 18:55:40  [info] Success: Database updated
+
+Feb 02 19:06:34  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 19:08:32  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 19:12:19  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 02 20:06:47  [info] Contribution record updated successfully
+
+Feb 02 20:06:47  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1519
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 118
+    [contribution_status_id] => 2
+    [receive_date] => 20210202190632
+    [order_reference] => in_1IGUCqKUPvfNAZOGz66Pl74M
+    [trxn_id] => in_1IGUCqKUPvfNAZOGz66Pl74M
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 02 20:06:47  [info] Success: Database updated
+
+Feb 02 20:06:47  [info] Contribution record updated successfully
+
+Feb 02 20:06:48  [info] Receipt sent
+
+Feb 02 20:06:48  [info] Success: Database updated
+
+Feb 02 20:09:17  [info] Contribution record updated successfully
+
+Feb 02 20:09:17  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4436 ,  2 ,  1 ,  20210202190831 ,  25 ,  1.03 ,  23.97 , 'in_1IGUElKUPvfNAZOGVNCDXL6a' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  119 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGUElKUPvfNAZOGVNCDXL6a' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4436 ,  2 ,  1 ,  20210202190831 ,  25 ,  1.03 ,  23.97 , 'in_1IGUElKUPvfNAZOGVNCDXL6a' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  119 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGUElKUPvfNAZOGVNCDXL6a' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4436 ,  2 ,  1 ,  20210202190831 ,  25 ,  1.03 ,  23.97 , 'in_1IGUElKUPvfNAZOGVNCDXL6a' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  119 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGUElKUPvfNAZOGVNCDXL6a' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 02 20:09:17  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IGUElKUPvfNAZOGVNCDXL6a' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(219): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 02 20:09:17  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(219): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 119
+    [contribution_status_id] => 2
+    [receive_date] => 20210202190831
+    [order_reference] => in_1IGUElKUPvfNAZOGVNCDXL6a
+    [trxn_id] => in_1IGUElKUPvfNAZOGVNCDXL6a
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 02 20:09:17  [info] Success: Database updated
+
+Feb 02 20:12:25  [info] Contribution record updated successfully
+
+Feb 02 20:12:25  [info] Success: Database updated
+
+Feb 02 20:12:25  [info] Contribution record updated successfully
+
+Feb 02 20:12:25  [info] Receipt sent
+
+Feb 02 20:12:25  [info] Success: Database updated
+
+Feb 03 02:43:24  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 03 03:43:38  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EGtxWYWEMleM41) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 03 03:43:38  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EGtxWYWEMleM41) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 03 03:43:39  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EGtxWYWEMleM41) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 03 12:56:12  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 03 13:57:10  [info] Contribution record updated successfully
+
+Feb 03 13:57:10  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1523
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 72
+    [contribution_status_id] => 2
+    [receive_date] => 20210203125607
+    [order_reference] => in_1IGktvKUPvfNAZOGJtsPaDTK
+    [trxn_id] => in_1IGktvKUPvfNAZOGJtsPaDTK
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 03 13:57:10  [info] Success: Database updated
+
+Feb 03 13:57:11  [info] Contribution record updated successfully
+
+Feb 03 13:57:12  [info] Receipt sent
+
+Feb 03 13:57:12  [info] Success: Database updated
+
+Feb 03 16:16:23  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 03 16:22:36  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 03 17:17:11  [info] Contribution record updated successfully
+
+Feb 03 17:17:11  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 2668 ,  2 ,  1 ,  20210203161622 ,  25 ,  1.03 ,  23.97 , 'in_1IGo1iKUPvfNAZOG7zXbQiw0' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  67 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGo1iKUPvfNAZOG7zXbQiw0' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 2668 ,  2 ,  1 ,  20210203161622 ,  25 ,  1.03 ,  23.97 , 'in_1IGo1iKUPvfNAZOG7zXbQiw0' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  67 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGo1iKUPvfNAZOG7zXbQiw0' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 2668 ,  2 ,  1 ,  20210203161622 ,  25 ,  1.03 ,  23.97 , 'in_1IGo1iKUPvfNAZOG7zXbQiw0' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  67 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGo1iKUPvfNAZOG7zXbQiw0' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 03 17:17:11  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IGo1iKUPvfNAZOG7zXbQiw0' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 03 17:17:11  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 67
+    [contribution_status_id] => 2
+    [receive_date] => 20210203161622
+    [order_reference] => in_1IGo1iKUPvfNAZOG7zXbQiw0
+    [trxn_id] => in_1IGo1iKUPvfNAZOG7zXbQiw0
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 03 17:17:11  [info] Success: Database updated
+
+Feb 03 17:17:11  [info] Contribution record updated successfully
+
+Feb 03 17:17:12  [info] Receipt sent
+
+Feb 03 17:17:12  [info] Success: Database updated
+
+Feb 03 17:23:41  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 03 17:23:41  [info] Contribution record updated successfully
+
+Feb 03 17:23:41  [info] Success: Database updated
+
+Feb 03 20:03:10  [error] Could not delete Stripe subscription: No such subscription: 'sub_IJlus4ECvLUUQW'
+
+Feb 04 00:15:29  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 00:16:44  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 00:18:00  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 01:39:18  [info] Contribution record updated successfully
+
+Feb 04 01:39:18  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4085 ,  2 ,  1 ,  20210204001528 ,  25 ,  1.03 ,  23.97 , 'in_1IGvVMKUPvfNAZOGQK4qTXoS' , 'USD' , 'recurring contribution' ,  57 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGvVMKUPvfNAZOGQK4qTXoS' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4085 ,  2 ,  1 ,  20210204001528 ,  25 ,  1.03 ,  23.97 , 'in_1IGvVMKUPvfNAZOGQK4qTXoS' , 'USD' , 'recurring contribution' ,  57 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGvVMKUPvfNAZOGQK4qTXoS' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4085 ,  2 ,  1 ,  20210204001528 ,  25 ,  1.03 ,  23.97 , 'in_1IGvVMKUPvfNAZOGQK4qTXoS' , 'USD' , 'recurring contribution' ,  57 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IGvVMKUPvfNAZOGQK4qTXoS' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 04 01:39:18  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IGvVMKUPvfNAZOGQK4qTXoS' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 04 01:39:18  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 57
+    [contribution_status_id] => 2
+    [receive_date] => 20210204001528
+    [order_reference] => in_1IGvVMKUPvfNAZOGQK4qTXoS
+    [trxn_id] => in_1IGvVMKUPvfNAZOGQK4qTXoS
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 04 01:39:18  [info] Success: Database updated
+
+Feb 04 01:39:18  [info] Contribution record updated successfully
+
+Feb 04 01:39:18  [info] Receipt sent
+
+Feb 04 01:39:18  [info] Success: Database updated
+
+Feb 04 01:39:22  [info] Contribution record updated successfully
+
+Feb 04 01:39:22  [info] Success: Database updated
+
+Feb 04 01:39:22  [info] Contribution record updated successfully
+
+Feb 04 01:39:23  [info] Receipt sent
+
+Feb 04 01:39:23  [info] Success: Database updated
+
+Feb 04 01:39:24  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 01:39:24  [info] Contribution record updated successfully
+
+Feb 04 01:39:24  [info] Success: Database updated
+
+Feb 04 23:32:25  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 23:53:20  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 04 23:57:30  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 05 00:32:59  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EoZYpuDhWhwS3o) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:32:59  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EoZYpuDhWhwS3o) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:32:59  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EoZYpuDhWhwS3o) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:53:57  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsKHUKrUT4rLP) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:53:58  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsKHUKrUT4rLP) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:53:58  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsKHUKrUT4rLP) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:58:00  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsOQSqNHGUAw6) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:58:01  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsOQSqNHGUAw6) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 00:58:01  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FvsOQSqNHGUAw6) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 12:31:36  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 05 13:32:03  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_Fkpm40rJmeP2j0) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 13:32:03  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_Fkpm40rJmeP2j0) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 13:32:04  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_Fkpm40rJmeP2j0) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 05 20:03:29  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 05 21:05:21  [info] Contribution record updated successfully
+
+Feb 05 21:05:21  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3231 ,  2 ,  1 ,  20210205200327 ,  25 ,  1.03 ,  23.97 , 'in_1IHaWZKUPvfNAZOG2vn2oXA8' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  125 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHaWZKUPvfNAZOG2vn2oXA8' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3231 ,  2 ,  1 ,  20210205200327 ,  25 ,  1.03 ,  23.97 , 'in_1IHaWZKUPvfNAZOG2vn2oXA8' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  125 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHaWZKUPvfNAZOG2vn2oXA8' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3231 ,  2 ,  1 ,  20210205200327 ,  25 ,  1.03 ,  23.97 , 'in_1IHaWZKUPvfNAZOG2vn2oXA8' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  125 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHaWZKUPvfNAZOG2vn2oXA8' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 05 21:05:21  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IHaWZKUPvfNAZOG2vn2oXA8' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 05 21:05:21  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 125
+    [contribution_status_id] => 2
+    [receive_date] => 20210205200327
+    [order_reference] => in_1IHaWZKUPvfNAZOG2vn2oXA8
+    [trxn_id] => in_1IHaWZKUPvfNAZOG2vn2oXA8
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 05 21:05:21  [info] Success: Database updated
+
+Feb 05 21:05:21  [info] Contribution record updated successfully
+
+Feb 05 21:05:22  [info] Receipt sent
+
+Feb 05 21:05:22  [info] Success: Database updated
+
+Feb 05 22:27:17  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 05 23:34:10  [info] Contribution record updated successfully
+
+Feb 05 23:34:10  [info] Success: Database updated
+
+Feb 05 23:34:11  [info] Contribution record updated successfully
+
+Feb 05 23:34:11  [info] Receipt sent
+
+Feb 05 23:34:11  [info] Success: Database updated
+
+Feb 06 00:27:10  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 00:36:54  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 00:50:51  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 01:29:50  [info] Contribution record updated successfully
+
+Feb 06 01:29:50  [info] Success: Database updated
+
+Feb 06 01:29:50  [info] Contribution record updated successfully
+
+Feb 06 01:29:51  [info] Receipt sent
+
+Feb 06 01:29:51  [info] Success: Database updated
+
+Feb 06 01:38:00  [info] Contribution record updated successfully
+
+Feb 06 01:38:00  [info] Success: Database updated
+
+Feb 06 01:38:00  [info] Contribution record updated successfully
+
+Feb 06 01:38:00  [info] Receipt sent
+
+Feb 06 01:38:00  [info] Success: Database updated
+
+Feb 06 01:39:36  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 01:53:55  [info] Contribution record updated successfully
+
+Feb 06 01:53:55  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1536
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(219): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 87
+    [contribution_status_id] => 2
+    [receive_date] => 20210206005050
+    [order_reference] => in_1IHf0gKUPvfNAZOG3jBxn1qv
+    [trxn_id] => in_1IHf0gKUPvfNAZOG3jBxn1qv
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 06 01:53:55  [info] Success: Database updated
+
+Feb 06 02:40:12  [info] Contribution record updated successfully
+
+Feb 06 02:40:12  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4261 ,  2 ,  1 ,  20210206013935 ,  25 ,  1.03 ,  23.97 , 'in_1IHflrKUPvfNAZOGcY72b3vI' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  88 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHflrKUPvfNAZOGcY72b3vI' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4261 ,  2 ,  1 ,  20210206013935 ,  25 ,  1.03 ,  23.97 , 'in_1IHflrKUPvfNAZOGcY72b3vI' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  88 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHflrKUPvfNAZOGcY72b3vI' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 4261 ,  2 ,  1 ,  20210206013935 ,  25 ,  1.03 ,  23.97 , 'in_1IHflrKUPvfNAZOGcY72b3vI' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  88 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IHflrKUPvfNAZOGcY72b3vI' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 06 02:40:12  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IHflrKUPvfNAZOGcY72b3vI' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(219): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 06 02:40:12  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(219): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 88
+    [contribution_status_id] => 2
+    [receive_date] => 20210206013935
+    [order_reference] => in_1IHflrKUPvfNAZOGcY72b3vI
+    [trxn_id] => in_1IHflrKUPvfNAZOGcY72b3vI
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 06 02:40:12  [info] Success: Database updated
+
+Feb 06 13:28:00  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 13:35:47  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 14:28:50  [info] Contribution record updated successfully
+
+Feb 06 14:28:50  [info] Success: Database updated
+
+Feb 06 14:28:50  [info] Contribution record updated successfully
+
+Feb 06 14:28:51  [info] Receipt sent
+
+Feb 06 14:28:51  [info] Success: Database updated
+
+Feb 06 14:36:06  [info] Contribution record updated successfully
+
+Feb 06 14:36:06  [info] Success: Database updated
+
+Feb 06 14:36:06  [info] Contribution record updated successfully
+
+Feb 06 14:36:06  [info] Receipt sent
+
+Feb 06 14:36:06  [info] Success: Database updated
+
+Feb 06 19:54:58  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 06 20:57:01  [info] Contribution record updated successfully
+
+Feb 06 20:57:01  [info] Success: Database updated
+
+Feb 06 20:57:01  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1541
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 123
+    [contribution_status_id] => 2
+    [receive_date] => 20210206195456
+    [order_reference] => in_1IHwrsKUPvfNAZOGZFSkrPCL
+    [trxn_id] => in_1IHwrsKUPvfNAZOGZFSkrPCL
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 06 20:57:01  [info] Contribution record updated successfully
+
+Feb 06 20:57:02  [info] Receipt sent
+
+Feb 06 20:57:02  [info] Success: Database updated
+
+Feb 07 15:23:25  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 07 16:00:49  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 07 16:23:38  [info] Contribution record updated successfully
+
+Feb 07 16:23:38  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1542
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 75
+    [contribution_status_id] => 2
+    [receive_date] => 20210207152323
+    [order_reference] => in_1IIF6dKUPvfNAZOGfGfDKnBV
+    [trxn_id] => in_1IIF6dKUPvfNAZOGfGfDKnBV
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 07 16:23:38  [info] Success: Database updated
+
+Feb 07 16:23:39  [info] Contribution record updated successfully
+
+Feb 07 16:23:39  [info] Receipt sent
+
+Feb 07 16:23:39  [info] Success: Database updated
+
+Feb 07 17:01:55  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EQ3wPUDA3JnceW) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 07 17:01:58  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EQ3wPUDA3JnceW) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 07 17:01:58  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_EQ3wPUDA3JnceW) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 07 18:42:43  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 07 19:49:34  [info] Contribution record updated successfully
+
+Feb 07 19:49:34  [info] Success: Database updated
+
+Feb 07 19:49:34  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1543
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(415): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(192): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 124
+    [contribution_status_id] => 2
+    [receive_date] => 20210207184242
+    [order_reference] => in_1IIIDWKUPvfNAZOGIJ1vq2AA
+    [trxn_id] => in_1IIIDWKUPvfNAZOGIJ1vq2AA
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 07 19:49:35  [info] Contribution record updated successfully
+
+Feb 07 19:49:35  [info] Receipt sent
+
+Feb 07 19:49:35  [info] Success: Database updated
+
+Feb 08 00:24:30  [error] Stripe Notice: Undefined property of Stripe\StripeObject instance: plan
+
+Feb 08 01:24:48  [info] Contribution record updated successfully
+
+Feb 08 01:24:48  [info] Success: Database updated
+
+Feb 08 01:24:48  [info] Contribution record updated successfully
+
+Feb 08 01:24:49  [info] Receipt sent
+
+Feb 08 01:24:49  [info] Success: Database updated
+
+Feb 10 23:33:36  [info] Contribution record updated successfully
+
+Feb 10 23:33:36  [info] Success: Database updated
+
+Feb 10 23:33:36  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1545
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(404): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(194): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 110
+    [contribution_status_id] => 2
+    [receive_date] => 20210210223219
+    [order_reference] => in_1IJRENKUPvfNAZOGizqYJBx1
+    [trxn_id] => in_1IJRENKUPvfNAZOGizqYJBx1
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 10 23:33:36  [info] Contribution record updated successfully
+
+Feb 10 23:33:37  [info] Receipt sent
+
+Feb 10 23:33:37  [info] Success: Database updated
+
+Feb 13 18:30:55  [info] Contribution record updated successfully
+
+Feb 13 18:30:55  [error] $Fatal Error Details = Array
+(
+    [callback] => Array
+        (
+            [0] => CRM_Core_Error
+            [1] => exceptionHandler
+        )
+
+    [code] => -5
+    [message] => DB Error: already exists
+    [mode] => 16
+    [debug_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3795 ,  2 ,  1 ,  20210213172959 ,  25 ,  1.03 ,  23.97 , 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  71 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' for key 'UI_contrib_trxn_id']
+    [type] => DB_Error
+    [user_info] => INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3795 ,  2 ,  1 ,  20210213172959 ,  25 ,  1.03 ,  23.97 , 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  71 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' for key 'UI_contrib_trxn_id']
+    [to_string] => [db_error: message="DB Error: already exists" code=-5 mode=callback callback=CRM_Core_Error::exceptionHandler prefix="" info="INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `payment_instrument_id` , `receive_date` , `total_amount` , `fee_amount` , `net_amount` , `trxn_id` , `currency` , `source` , `contribution_recur_id` , `is_test` , `contribution_status_id` , `check_number` ) VALUES ( 3795 ,  2 ,  1 ,  20210213172959 ,  25 ,  1.03 ,  23.97 , 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' , 'USD' , 'Gym Member Membership Signup: Credit card or direct debit (by Durward Ferland)' ,  71 ,  0 ,  2 ,  NULL )  [nativecode=1062 ** Duplicate entry 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' for key 'UI_contrib_trxn_id']"]
+)
+
+
+Feb 13 18:30:55  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(937): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(922): CRM_Core_Error::exceptionHandler(Object(DB_Error))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB.php(997): PEAR_Error->__construct("DB Error: already exists", -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(575): DB_Error->__construct(-5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/vendor/pear/pear-core-minimal/src/PEAR.php(223): PEAR->_raiseError(Object(DB_mysqli), NULL, -5, 16, (Array:2), "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "DB_Error", TRUE)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1925): PEAR->__call("raiseError", (Array:7))
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(936): DB_common->raiseError(-5, NULL, NULL, "INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...", "1062 ** Duplicate entry 'in_1IKRwRKUPvfNAZOGeKl5jJ0J' for key 'UI_contrib_trx...")
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/mysqli.php(406): DB_mysqli->mysqliRaiseError()
+#8 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/common.php(1231): DB_mysqli->simpleQuery("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#9 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(2696): DB_common->query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#10 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/DB/DataObject.php(1245): DB_DataObject->_query("INSERT INTO `civicrm_contribution` (`contact_id` , `financial_type_id` , `pay...")
+#11 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/DAO.php(620): DB_DataObject->insert()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(191): CRM_Core_DAO->save()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(488): CRM_Contribute_BAO_Contribution::add((Array:23))
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/utils.php(1290): CRM_Contribute_BAO_Contribution::create((Array:23), (Array:1))
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(77): _civicrm_api3_basic_create("CRM_Contribute_BAO_Contribution", (Array:23), "Contribution")
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_create((Array:23))
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#18 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#19 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "create", (Array:18))
+#20 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3("Contribution", "create", (Array:18))
+#21 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), (Array:15), (Array:17), "5")
+#22 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder((Array:15), (Array:10), (Array:8), Object(CRM_Core_Transaction), NULL)
+#23 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction((Array:10), Object(CRM_Contribute_BAO_Contribution), (Array:13), (Array:10), Object(CRM_Contribute_BAO_Contribution))
+#24 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction((Array:10))
+#25 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke((Array:8))
+#26 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest((Array:8))
+#27 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe("Contribution", "repeattransaction", (Array:9))
+#28 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3("Contribution", "repeattransaction", (Array:9))
+#29 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(404): CRM_Core_Payment_StripeIPN->repeatContribution((Array:7))
+#30 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(194): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#31 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#32 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#33 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod("handlePaymentNotification", (Array:3))
+#34 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#35 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem((Array:14))
+#36 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke((Array:4))
+#37 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke((Array:4))
+#38 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#39 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#40 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#41 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#42 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#43 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#44 /home/portland/www/www/wp-blog-header.php(16): wp()
+#45 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#46 {main}
+
+
+Feb 13 18:30:55  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDB Error: already exists
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(404): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(194): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 71
+    [contribution_status_id] => 2
+    [receive_date] => 20210213172959
+    [order_reference] => in_1IKRwRKUPvfNAZOGeKl5jJ0J
+    [trxn_id] => in_1IKRwRKUPvfNAZOGeKl5jJ0J
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 13 18:30:55  [info] Success: Database updated
+
+Feb 13 18:30:55  [info] Contribution record updated successfully
+
+Feb 13 18:30:56  [info] Receipt sent
+
+Feb 13 18:30:56  [info] Success: Database updated
+
+Feb 13 19:53:50  [info] Contribution record updated successfully
+
+Feb 13 19:53:50  [info] Success: Database updated
+
+Feb 13 19:53:50  [info] Contribution record updated successfully
+
+Feb 13 19:53:51  [info] Receipt sent
+
+Feb 13 19:53:51  [info] Success: Database updated
+
+Feb 14 15:46:42  [info] Contribution record updated successfully
+
+Feb 14 15:46:42  [info] Success: Database updated
+
+Feb 14 15:46:42  [error] MJWIPNTrait call to repeattransaction failed: failed to load related objectsDuplicate error - existing contribution record(s) have a matching Transaction ID or Invoice ID. Contribution record ID(s) are: 1549
+#0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(2627): civicrm_api3('Contribution', 'create', Array)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/BAO/Contribution.php(4478): CRM_Contribute_BAO_Contribution::repeatTransaction(Object(CRM_Contribute_BAO_Contribution), Array, Array, '5')
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(686): CRM_Contribute_BAO_Contribution::completeOrder(Array, Array, Array, Object(CRM_Core_Transaction), NULL)
+#3 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/v3/Contribution.php(629): _ipn_process_transaction(Array, Object(CRM_Contribute_BAO_Contribution), Array, Array, Object(CRM_Contribute_BAO_Contribution))
+#4 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Provider/MagicFunctionProvider.php(89): civicrm_api3_contribution_repeattransaction(Array)
+#5 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(150): Civi\API\Provider\MagicFunctionProvider->invoke(Array)
+#6 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/Civi/API/Kernel.php(81): Civi\API\Kernel->runRequest(Array)
+#7 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/api/api.php(131): Civi\API\Kernel->runSafe('Contribution', 'repeattransacti...', Array)
+#8 /home/portland/www/www/wp-content/uploads/civicrm/ext/mjwshared/CRM/Core/Payment/MJWIPNTrait.php(246): civicrm_api3('Contribution', 'repeattransacti...', Array)
+#9 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(404): CRM_Core_Payment_StripeIPN->repeatContribution(Array)
+#10 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/StripeIPN.php(194): CRM_Core_Payment_StripeIPN->createNextContributionForRecur()
+#11 /home/portland/www/www/wp-content/uploads/civicrm/ext/com.drastikbydesign.stripe/CRM/Core/Payment/Stripe.php(1148): CRM_Core_Payment_StripeIPN->main()
+#12 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1619): CRM_Core_Payment_Stripe->handlePaymentNotification()
+#13 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Payment.php(1512): CRM_Core_Payment::handlePaymentMethod('handlePaymentNo...', Array)
+#14 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(278): CRM_Core_Payment::handleIPN()
+#15 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(68): CRM_Core_Invoke::runItem(Array)
+#16 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(36): CRM_Core_Invoke::_invoke(Array)
+#17 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1601): CRM_Core_Invoke::invoke(Array)
+#18 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(352): CiviCRM_For_WordPress->invoke()
+#19 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#20 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#21 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action(Array)
+#22 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array('wp', Array)
+#23 /home/portland/www/www/wp-includes/functions.php(1291): WP->main('')
+#24 /home/portland/www/www/wp-blog-header.php(16): wp()
+#25 /home/portland/www/www/index.php(17): require('/home/portland/...')
+#26 {main}; params: Array
+(
+    [contribution_recur_id] => 80
+    [contribution_status_id] => 2
+    [receive_date] => 20210214144625
+    [order_reference] => in_1IKlrhKUPvfNAZOGbfNT0DLw
+    [trxn_id] => in_1IKlrhKUPvfNAZOGbfNT0DLw
+    [total_amount] => 25
+    [fee_amount] => 1.03
+    [is_email_receipt] => 
+)
+
+
+Feb 14 15:46:42  [info] Contribution record updated successfully
+
+Feb 14 15:46:43  [info] Receipt sent
+
+Feb 14 15:46:43  [info] Success: Database updated
+
+Feb 14 15:49:27  [info] Contribution record updated successfully
+
+Feb 14 15:49:27  [info] Success: Database updated
+
+Feb 14 15:49:27  [info] Contribution record updated successfully
+
+Feb 14 15:49:27  [info] Receipt sent
+
+Feb 14 15:49:27  [info] Success: Database updated
+
+Feb 15 13:04:39  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FRLZ4sZbitV7Gg) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 15 13:04:40  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FRLZ4sZbitV7Gg) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 15 13:04:40  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FRLZ4sZbitV7Gg) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 15 18:39:15  [error] Stripe Notice: Undefined property of Stripe\Invoice instance: id
+
+Feb 15 21:05:19  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 15 21:05:19  [warning] Deprecated function Legacy property name 'is_recur', use Canonical property name 'isRecur'.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 15 21:05:19  [warning] Deprecated function PropertyBag array access for core property 'is_recur', use getIs_recur().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 16 01:04:29  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FolBMWnQPXDfVB) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 01:04:29  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FolBMWnQPXDfVB) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 01:04:30  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_FolBMWnQPXDfVB) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 01:29:06  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_F9NU6dugHfBKEQ) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 01:29:06  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_F9NU6dugHfBKEQ) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 01:29:07  [error] Portland Boxing Club - Stripe Exception: Event:  Error: Customer (cus_F9NU6dugHfBKEQ) and payment processor ID don't match (expected: 3, actual: 5)
+
+Feb 16 02:06:31  [info] Contribution record updated successfully
+
+Feb 16 02:06:31  [info] Receipt sent
+
+Feb 16 02:06:31  [info] Success: Database updated
+
+Feb 16 02:45:40  [info] Running task: List 0 Newsletter: collecting data from CiviCRM.
+
+Feb 16 02:45:40  [info] Running task: List 0 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Feb 16 02:46:03  [info] Running task: List 0 Newsletter: Fetched data from Mailchimp. Matching...
+
+Feb 16 02:46:32  [info] Running task: List 0 Newsletter: Matched up contacts. Comparing...
+
+Feb 16 02:46:33  [info] Running task: List 0 Newsletter: Ignored any in-sync already. Updating Mailchimp...
+
+Feb 16 02:46:33  [info] Running task: List 0 Newsletter: Completed additions/updates/unsubscribes.
+
+Feb 16 03:00:22  [info] Running task: List 1 Newsletter: collecting data from CiviCRM...
+
+Feb 16 03:00:23  [info] Running task: List 1 Newsletter: Fetched data from CiviCRM, fetching from Mailchimp...
+
+Feb 16 03:02:00  [info] Running task: List 1 Newsletter: Fetched data from Mailchimp. Matching...
+
+Feb 16 03:03:14  [info] Running task: List 1 Newsletter: Matched up contacts. Comparing...
+
+Feb 16 03:03:18  [info] Running task: List 1 Newsletter: Ignored any in-sync contacts. Updating CiviCRM with changes.
+
+Feb 16 03:03:19  [info] Running task: List 1 Newsletter: Completed.
+
+Feb 16 12:27:17  [error] Stripe Notice: Undefined property of Stripe\Invoice instance: id
+
+Feb 16 22:09:51  [info] Running task: Cleanup old files
+
+Feb 16 22:09:52  [info] Running task: Checking extensions
+
+Feb 16 22:09:52  [info] Running task: Begin Upgrade to 5.29.alpha1
+
+Feb 16 22:09:52  [info] Running task: Upgrade DB to 5.29.alpha1
+
+Feb 16 22:09:53  [info] Running task: Upgrade DB to 5.29.alpha1: SQL
+
+Feb 16 22:09:54  [info] Running task: Install eventcart extension
+
+Feb 16 22:09:54  [info] Running task: Upgrade DB to 5.29.alpha1: Fill civicrm_relationship_cache (1 => 5000)
+
+Feb 16 22:09:55  [info] Running task: Finish Upgrade DB to 5.29.alpha1
+
+Feb 16 22:09:55  [info] Running task: Begin Upgrade to 5.29.beta1
+
+Feb 16 22:09:56  [info] Running task: Upgrade DB to 5.29.beta1
+
+Feb 16 22:09:56  [info] Running task: Upgrade DB to 5.29.beta1: SQL
+
+Feb 16 22:09:57  [info] Running task: Make label field non required on price field value
+
+Feb 16 22:09:57  [info] Running task: Finish Upgrade DB to 5.29.beta1
+
+Feb 16 22:09:58  [info] Running task: Begin Upgrade to 5.29.1
+
+Feb 16 22:09:58  [info] Running task: Upgrade DB to 5.29.1
+
+Feb 16 22:09:59  [info] Running task: Finish Upgrade DB to 5.29.1
+
+Feb 16 22:10:00  [info] Running task: Begin Upgrade to 5.30.alpha1
+
+Feb 16 22:10:00  [info] Running task: Upgrade DB to 5.30.alpha1
+
+Feb 16 22:10:00  [info] Running task: Upgrade DB to 5.30.alpha1: SQL
+
+Feb 16 22:10:02  [info] Running task: Add core (required) extension Financial ACLs
+
+Feb 16 22:10:02  [info] Running task: Finish Upgrade DB to 5.30.alpha1
+
+Feb 16 22:10:02  [info] Running task: Begin Upgrade to 5.30.beta1
+
+Feb 16 22:10:03  [info] Running task: Upgrade DB to 5.30.beta1
+
+Feb 16 22:10:04  [info] Running task: Finish Upgrade DB to 5.30.beta1
+
+Feb 16 22:10:04  [info] Running task: Begin Upgrade to 5.31.alpha1
+
+Feb 16 22:10:05  [info] Running task: Upgrade DB to 5.31.alpha1
+
+Feb 16 22:10:05  [info] Running task: Expand internal civicrm group title field to be 255 in length
+
+Feb 16 22:10:06  [info] Running task: Add in optional public title group table
+
+Feb 16 22:10:06  [info] Running task: Add in optional public description group table
+
+Feb 16 22:10:08  [info] Running task: Upgrade DB to 5.31.alpha1: SQL
+
+Feb 16 22:10:09  [info] Running task: Remove Eway Single Currency Payment Processor type if not used or install the new extension for it
+
+Feb 16 22:10:10  [info] Running task: dev/core#1486 Remove FKs from ACL Cache tables
+
+Feb 16 22:10:10  [info] Running task: Activate core extension "Greenwich"
+
+Feb 16 22:10:10  [info] Running task: Add is_non_case_email_skipped column to civicrm_mail_settings
+
+Feb 16 22:10:11  [info] Running task: Add is_contact_creation_disabled_if_no_match column to civicrm_mail_settings
+
+Feb 16 22:10:13  [info] Running task: Finish Upgrade DB to 5.31.alpha1
+
+Feb 16 22:10:13  [info] Running task: Begin Upgrade to 5.31.beta1
+
+Feb 16 22:10:14  [info] Running task: Upgrade DB to 5.31.beta1
+
+Feb 16 22:10:16  [info] Running task: Finish Upgrade DB to 5.31.beta1
+
+Feb 16 22:10:17  [info] Running task: Begin Upgrade to 5.31.beta2
+
+Feb 16 22:10:18  [info] Running task: Upgrade DB to 5.31.beta2
+
+Feb 16 22:10:19  [info] Running task: Restore null-ity of "civicrm_group.title" field
+
+Feb 16 22:10:20  [info] Running task: Upgrade DB to 5.31.beta2: SQL
+
+Feb 16 22:10:22  [info] Running task: Finish Upgrade DB to 5.31.beta2
+
+Feb 16 22:10:23  [info] Running task: Begin Upgrade to 5.32.alpha1
+
+Feb 16 22:10:24  [info] Running task: Upgrade DB to 5.32.alpha1
+
+Feb 16 22:10:24  [info] Running task: Upgrade DB to 5.32.alpha1: SQL
+
+Feb 16 22:10:25  [info] Running task: Add column civicrm_saved_search.name
+
+Feb 16 22:10:28  [info] Running task: Add column civicrm_saved_search.label
+
+Feb 16 22:10:30  [info] Running task: Add index civicrm_saved_search.UI_name
+
+Feb 16 22:10:31  [info] Running task: Install contribution cancel actions extension
+
+Feb 16 22:10:32  [info] Running task: Finish Upgrade DB to 5.32.alpha1
+
+Feb 16 22:10:34  [info] Running task: Begin Upgrade to 5.32.beta1
+
+Feb 16 22:10:35  [info] Running task: Upgrade DB to 5.32.beta1
+
+Feb 16 22:10:38  [info] Running task: Finish Upgrade DB to 5.32.beta1
+
+Feb 16 22:10:39  [info] Running task: Begin Upgrade to 5.33.alpha1
+
+Feb 16 22:10:40  [info] Running task: Upgrade DB to 5.33.alpha1
+
+Feb 16 22:10:41  [info] Running task: Upgrade DB to 5.33.alpha1: SQL
+
+Feb 16 22:10:44  [info] Running task: Add column civicrm_dashboard.directive
+
+Feb 16 22:10:46  [info] Running task: Finish Upgrade DB to 5.33.alpha1
+
+Feb 16 22:10:48  [info] Running task: Begin Upgrade to 5.33.beta1
+
+Feb 16 22:10:49  [info] Running task: Upgrade DB to 5.33.beta1
+
+Feb 16 22:10:51  [info] Running task: Finish Upgrade DB to 5.33.beta1
+
+Feb 16 22:10:51  [info] Running task: Begin Upgrade to 5.33.beta2
+
+Feb 16 22:10:51  [info] Running task: Upgrade DB to 5.33.beta2
+
+Feb 16 22:10:53  [info] Running task: Finish Upgrade DB to 5.33.beta2
+
+Feb 16 22:10:54  [info] Running task: Begin Upgrade to 5.34.alpha1
+
+Feb 16 22:10:55  [info] Running task: Upgrade DB to 5.34.alpha1
+
+Feb 16 22:10:57  [info] Running task: Upgrade DB to 5.34.alpha1: SQL
+
+Feb 16 22:10:59  [info] Running task: Migrate SMTP password
+
+Feb 16 22:11:00  [info] Running task: core-issue#365 - Add created_date to civicrm_action_schedule
+
+Feb 16 22:11:03  [info] Running task: core-issue#365 - Add modified_date to civicrm_action_schedule
+
+Feb 16 22:11:05  [info] Running task: core-issue#365 - Add effective_start_date to civicrm_action_schedule
+
+Feb 16 22:11:07  [info] Running task: core-issue#365 - Add effective_end_date to civicrm_action_schedule
+
+Feb 16 22:11:09  [info] Running task: Set defaults and required on financial type boolean fields
+
+Feb 16 22:11:09  [info] Running task: Set defaults and required on pledge fields
+
+Feb 16 22:11:10  [info] Running task: Remove never used IMAP_XOAUTH2 option value
+
+Feb 16 22:11:10  [info] Running task: Finish Upgrade DB to 5.34.alpha1
+
+Feb 16 22:11:11  [info] Running task: Begin Upgrade to 5.34.beta1
+
+Feb 16 22:11:11  [info] Running task: Upgrade DB to 5.34.beta1
+
+Feb 16 22:11:12  [info] Running task: Finish Upgrade DB to 5.34.beta1
+
+Feb 16 22:11:12  [info] Running task: Begin Upgrade to 5.34.0
+
+Feb 16 22:11:13  [info] Running task: Upgrade DB to 5.34.0
+
+Feb 16 22:11:14  [info] Running task: Finish Upgrade DB to 5.34.0
+
+Feb 16 22:29:29  [warning] hook_civimobileapi_qrCodeBlockParams should be updated to pass an array of parameter names to CRM_Utils_Hook::invoke().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 16 22:29:44  [warning] hook_civimobileapi_qrCodeBlockParams should be updated to pass an array of parameter names to CRM_Utils_Hook::invoke().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Feb 17 00:13:33  [error] Stripe Notice: Undefined property of Stripe\Invoice instance: id
+
+Feb 18 00:19:43  [info] Contribution 1559 updated successfully
+
+Feb 18 00:19:44  [info] Contribution 1559 Receipt sent
+
+Feb 18 04:36:34  [info] inactive contribution page access attempted - page number 2
+
+Feb 18 04:36:34  [error] 
+$Fatal Error Details = array:3 [
+  "message" => "The page you requested is currently unavailable."
+  "code" => null
+  "exception" => CRM_Contribute_Exception_InactiveContributionPageException {#1797
+    -id: 2
+    #message: "The page you requested is currently unavailable."
+    #code: 0
+    #file: "/home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/ContributionBase.php"
+    #line: 314
+    trace: {
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/ContributionBase.php:314 {
+        › if (empty($this->_values['is_active'])) {
+        ›   throw new CRM_Contribute_Exception_InactiveContributionPageException(ts('The page you requested is currently unavailable.'), $this->_id);
+        › }
+      }
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Contribute/Form/Contribution/Main.php:48 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Form.php:608 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/QuickForm/Action/Display.php:76 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Controller.php:203 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/packages/HTML/QuickForm/Page.php:103 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Controller.php:347 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php:312 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php:68 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php:36 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php:1172 { …}
+      /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php:354 { …}
+      /home/portland/www/www/wp-includes/class-wp-hook.php:287 { …}
+      /home/portland/www/www/wp-includes/class-wp-hook.php:311 { …}
+      /home/portland/www/www/wp-includes/plugin.php:551 { …}
+      /home/portland/www/www/wp-includes/class-wp.php:758 { …}
+      /home/portland/www/www/wp-includes/functions.php:1291 { …}
+      /home/portland/www/www/wp-blog-header.php:16 { …}
+      /home/portland/www/www/index.php:17 { …}
+    }
+  }
+]
+
+
+Feb 18 04:36:34  [debug] $backTrace = #0 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Error.php(433): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /home/portland/www/www/wp-content/plugins/civicrm/civicrm/CRM/Core/Invoke.php(39): CRM_Core_Error::handleUnhandledException(Object(CRM_Contribute_Exception_InactiveContributionPageException))
+#2 /home/portland/www/www/wp-content/plugins/civicrm/civicrm.php(1172): CRM_Core_Invoke::invoke((Array:3))
+#3 /home/portland/www/www/wp-content/plugins/civicrm/includes/civicrm.basepage.php(354): CiviCRM_For_WordPress->invoke()
+#4 /home/portland/www/www/wp-includes/class-wp-hook.php(287): CiviCRM_For_WordPress_Basepage->basepage_handler(Object(WP))
+#5 /home/portland/www/www/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters("", (Array:1))
+#6 /home/portland/www/www/wp-includes/plugin.php(551): WP_Hook->do_action((Array:1))
+#7 /home/portland/www/www/wp-includes/class-wp.php(758): do_action_ref_array("wp", (Array:1))
+#8 /home/portland/www/www/wp-includes/functions.php(1291): WP->main("")
+#9 /home/portland/www/www/wp-blog-header.php(16): wp()
+#10 /home/portland/www/www/index.php(17): require("/home/portland/www/www/wp-blog-header.php")
+#11 {main}
+
+
+Feb 18 11:36:38  [error] Stripe Notice: Undefined property of Stripe\Invoice instance: id
+
+Feb 18 18:35:13  [warning] hook_civimobileapi_qrCodeBlockParams should be updated to pass an array of parameter names to CRM_Utils_Hook::invoke().
+Array
+(
+    [civi.tag] => deprecated
+)
+
+

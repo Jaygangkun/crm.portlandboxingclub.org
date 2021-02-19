@@ -1,0 +1,25 @@
+# Start Force SSL directives
+RewriteEngine On
+#RewriteCond %{HTTPS} !on
+#RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+# End Force SSL directives
+# BEGIN WordPress
+# The directives (lines) between "BEGIN WordPress" and "END WordPress" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+AddHandler application/x-httpd-php70s .php
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+#RewriteCond %{HTTP_HOST} ^crm\.portlandboxingclub\.org$
+#RewriteRule ^/?$ "https\:\/\/portlandboxingclub\.org\/wp\-admin\/" [R=301,L]
+RedirectMatch 301 "^/?$" "http://crm.portlandboxingclub.org/wp-admin"

@@ -1,0 +1,103 @@
+Sep 04 20:02:12  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+)
+
+Sep 04 20:02:13  [info] Request #0
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/lists?fields=lists.id%2Clists.name&count=10000
+Took         : 1.44s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'lists' => 
+                 array (
+                   0 => 
+                   stdClass::__set_state(array(
+                      'id' => '9cc5928b23',
+                      'name' => 'Newsletter',
+                   )),
+                 ),
+               ))
+
+
+
+Sep 04 20:02:13  [info] Request #1
+=============================================
+Method       : GET
+Url          : https://us14.api.mailchimp.com/3.0/lists/9cc5928b23/interest-categories?fields=categories.id%2Ccategories.title&count=10000
+Took         : 0.23s
+Response Code: 200
+Request Body : NULL
+Response Body: stdClass::__set_state(array(
+                  'categories' => 
+                 array (
+                 ),
+               ))
+
+
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 04 20:02:13  [info] getMCInterestName called for list '9cc5928b23', category '', interest '', returning ''
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCCategoryName for list 9cc5928b23 cat  returning 
+
+Sep 04 20:02:13  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+  7 => 
+  array (
+    'list_id' => '9cc5928b23',
+    'list_name' => 'Newsletter',
+    'category_id' => '',
+    'category_name' => NULL,
+    'interest_id' => '',
+    'interest_name' => NULL,
+    'is_mc_update_grouping' => NULL,
+    'civigroup_title' => 'Newsletter',
+    'civigroup_uses_cache' => false,
+    'grouping_id' => '',
+    'grouping_name' => NULL,
+    'group_id' => '',
+    'group_name' => NULL,
+  ),
+)
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 04 20:02:13  [info] getMCInterestName called for list '9cc5928b23', category '', interest '', returning ''
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCInterestGroupings for list '9cc5928b23' returning 
+array (
+)
+
+Sep 04 20:02:13  [info] CRM_Mailchimp_Utils::getMCCategoryName for list 9cc5928b23 cat  returning 
+
+Sep 04 20:02:13  [info] End-CRM_Mailchimp_Utils getGroupsToSync $groups
+array (
+  7 => 
+  array (
+    'list_id' => '9cc5928b23',
+    'list_name' => 'Newsletter',
+    'category_id' => '',
+    'category_name' => NULL,
+    'interest_id' => '',
+    'interest_name' => NULL,
+    'is_mc_update_grouping' => NULL,
+    'civigroup_title' => 'Newsletter',
+    'civigroup_uses_cache' => false,
+    'grouping_id' => '',
+    'grouping_name' => NULL,
+    'group_id' => '',
+    'group_name' => NULL,
+  ),
+)
+
