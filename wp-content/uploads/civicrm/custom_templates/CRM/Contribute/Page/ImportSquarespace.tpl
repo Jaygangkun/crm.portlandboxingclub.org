@@ -59,15 +59,6 @@
     </tr>
   </tbody>
 </table>
-{php}
-function importSquarespace(){
-  echo "success";
-  exit();
-}
-
-add_action('wp_ajax_import_squarespace', 'importSquarespace');
-add_action('wp_ajax_nopriv_import_squarespace', 'importSquarespace');
-{/php}
 {literal}
 <script>
   var api_url = '{/literal}{php}echo get_site_url(){/php}{literal}/wp-content/uploads/civicrm/custom_api/import_squarespace.php';
