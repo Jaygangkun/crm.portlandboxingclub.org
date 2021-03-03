@@ -57,6 +57,18 @@
         <input type="text" id="squarespace_api_key" class="huge crm-form-text" value="6c7b795e-81d2-432b-a515-dbac1d38a66f">
       </td>
     </tr>
+    <tr class="crm-contribution-form-block-source">
+      <td class="label1"><label for="source">Modified After</label></td>
+      <td>
+        <input type="text" id="modified_after" class="huge crm-form-text" placeholder="YYYY-MM-DD hh:mm:ss" value="2020-04-10 12:00:00">
+      </td>
+    </tr>
+    <tr class="crm-contribution-form-block-source">
+      <td class="label1"><label for="source">Modified Before</label></td>
+      <td>
+        <input type="text" id="modified_before" class="huge crm-form-text" placeholder="YYYY-MM-DD hh:mm:ss" value="2020-12-15 12:30:00">
+      </td>
+    </tr>
   </tbody>
 </table>
 {literal}

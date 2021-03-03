@@ -8,18 +8,40 @@ if(!isset($_POST['api_key'])){
 }
 
 $api_key = $_POST['api_key'];
-function getTransactions($api_key, $nextPageUrl){
+
+if(isset($_POST['modified_before']) && isset($_POST['modified_after']) && $_POST['modified_before'] != '' && $_POST['modified_after'] != ''){
+    $modified_after = $_POST['modified_after'];
+    $modified_before = $_POST['modified_before'];
+
+    $modified_after = str_replace(' ', 'T', $modified_after);
+    $modified_after .= 'Z';
+
+    $modified_before = str_replace(' ', 'T', $modified_before);
+    $modified_before .= 'Z';
+}
+else{
+    $modified_after = '';
+    $modified_before = '';
+}
+
+function getOrders($api_key, $modified_after, $modified_before, $nextPageUrl){
     $curl = curl_init();
 
     if($nextPageUrl == ''){
-        $transactions_url = 'https://api.squarespace.com/1.0/commerce/transactions';
+        if($modified_after != '' && $modified_before != ''){
+            $orders_url = 'https://api.squarespace.com/1.0/commerce/orders?modifiedAfter='.$modified_after.'&modifiedBefore='.$modified_before;
+        }
+        else{
+            $orders_url = 'https://api.squarespace.com/1.0/commerce/orders';
+        }
+        
     }
     else{
-        $transactions_url = $nextPageUrl;
+        $orders_url = $nextPageUrl;
     }
     
     curl_setopt_array($curl, array(
-      CURLOPT_URL => $transactions_url,
+      CURLOPT_URL => $orders_url,
       CURLOPT_RETURNTRANSFER => true,
       CURLOPT_ENCODING => '',
       CURLOPT_MAXREDIRS => 10,
@@ -43,24 +65,24 @@ function getTransactions($api_key, $nextPageUrl){
 
 $echo_data = array(
     'success' => true,
-    'donations' => array()
+    'orders' => array()
 );
 
-$documents = array();
+$results = array();
 
 $nextPageUrl = '';
 while(1){
-    $response = getTransactions($api_key, $nextPageUrl);
+    $response = getOrders($api_key, $modified_after, $modified_before, $nextPageUrl);
     $resp_data = json_decode($response, true);
     if(!isset($resp_data['pagination'])){
         echo json_encode(array(
             'success' => false,
-            'resp_data' => $documents
+            'resp_data' => $results
         ));
         exit();
     }
     else{
-        $documents = array_merge($documents, $resp_data['documents']);
+        $results = array_merge($results, $resp_data['result']);
 
         if($resp_data['pagination']['hasNextPage']){
             $nextPageUrl = $resp_data['pagination']['nextPageUrl'];
@@ -71,6 +93,6 @@ while(1){
     }
 }
 
-$echo_data['donations'] = $documents;
+$echo_data['orders'] = $results;
 echo json_encode($echo_data);
 ?>
