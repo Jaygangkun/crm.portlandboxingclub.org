@@ -57,6 +57,18 @@
         <input type="text" id="square_token" class="huge crm-form-text" value="EAAAED4JOQ-PE7wvP1-ormGI_y_kIyLX4KZd2wJMMoRHSIZfn_DkDU9h0q5xtL0a">
       </td>
     </tr>
+    <tr class="crm-contribution-form-block-source">
+      <td class="label1"><label for="source">Start At</label></td>
+      <td>
+        <input type="text" id="start_at" class="huge crm-form-text" placeholder="YYYY-MM-DD" value="2020-12-01">
+      </td>
+    </tr>
+    <tr class="crm-contribution-form-block-source">
+      <td class="label1"><label for="source">End At</label></td>
+      <td>
+        <input type="text" id="end_at" class="huge crm-form-text" placeholder="YYYY-MM-DD hh:mm:ss" value="2020-12-31">
+      </td>
+    </tr>
   </tbody>
 </table>
 {literal}
