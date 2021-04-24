@@ -12,7 +12,9 @@ async function importOrders(){
 
             if(customers.hasOwnProperty(customer_id)){
                 if(customers[customer_id]['email_address'] != ''){
-                    await importOneOrder(orders[oindex]['tenders'][tindex], customers[customer_id]['customer']);
+                    if(customers[customer_id]['customer'] && typeof customers[customer_id]['customer'] != 'undefined'){
+                        await importOneOrder(orders[oindex]['tenders'][tindex], customers[customer_id]['customer']);
+                    }
                 }
             }
         }
@@ -233,7 +235,7 @@ function createPhone(data){
         CRM.api4('Phone', 'create', {
             values: {
                 "contact_id": data.contact_id, 
-                "phone": customer['phone_number'],
+                "phone": data.customer['phone_number'],
                 "location_type_id:name" : 'Home'
             }
         }).then(function(results) {
